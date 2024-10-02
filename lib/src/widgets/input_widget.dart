@@ -96,6 +96,7 @@ class InternationalPhoneNumberInput extends StatefulWidget {
       this.onFieldSubmitted,
       this.validator,
       this.onSaved,
+      this.onCountryChanged,
       this.fieldKey,
       this.textFieldController,
       this.keyboardAction,
